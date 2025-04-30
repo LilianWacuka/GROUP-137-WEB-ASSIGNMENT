@@ -42,7 +42,7 @@ header {
     font-size: 24px;
     font-weight: bold;
     position: absolute;
-    top: 50px;    /* distance from top */
+    top: 30px;    /* distance from top */
     left: 20px;
     z-index: 2;
     gap: 2rem;
@@ -123,8 +123,12 @@ header {
 }
 
 .hero-content h1 {
-    font-size: 50px;
+    /* font-size: 50px; */
     margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: white;
 }
 
 .heading-outline {
